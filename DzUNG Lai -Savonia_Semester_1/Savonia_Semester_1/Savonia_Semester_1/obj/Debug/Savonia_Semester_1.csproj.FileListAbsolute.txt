@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Savonia_Semester_1.exe.config
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Savonia_Semester_1.exe
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Savonia_Semester_1.pdb
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.exe
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.pdb
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Spring_Semester_Database.mdf
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Spring_Semester_Database_log.ldf
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.personalDataForm.resources
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Sping_Semester_Database_Login.mdf
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\bin\Debug\Sping_Semester_Database_Login_log.ldf
+C:\Users\DELL\source\repos\Savonia_Semester_1\Savonia_Semester_1\obj\Debug\Savonia_Semester_1.Login_Form.resources
